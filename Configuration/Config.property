@@ -1,0 +1,8 @@
+URL= http://fashiontrend.myavactis.com
+
+chrome driver = "E:\chromedriver.exe"
+
+Excelpath= "E:\Eclipse\workspace\learn_framework_maven_4nov\ApplicaionTestData\appdata.xlsx"
+
+
+
